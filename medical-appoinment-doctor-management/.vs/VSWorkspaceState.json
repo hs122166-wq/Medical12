@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\medical",
+    "\\src\\main\\java\\com\\medical\\doctormodule",
+    "\\src\\main\\java\\com\\medical\\doctormodule\\controller",
+    "\\src\\main\\java\\com\\medical\\doctormodule\\repository",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\medical\\doctormodule\\controller\\DoctorAuthController.java",
+  "PreviewInSolutionExplorer": false
+}
